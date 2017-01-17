@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mqttsend</string>
+    <string name="stop">Start</string>
+    <string name="start">Start</string>
+</resources>
