@@ -1,0 +1,2 @@
+# Accelometer-with-Mqtt
+This is the document related with android phone accelerometer about acceleration measurement, velocity measurement, distance measurement, directional differentiate and orientation detection. Several experiments are conducted to determine the reliability of the accelerometer in measurement of respective field. From the data extracted from accelerometer to interpret user action. 
